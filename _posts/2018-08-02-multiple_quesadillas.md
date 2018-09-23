@@ -5,13 +5,13 @@ date:   2018-07-30 23:40:09 -0400
 categories: 
 ---
 
-# when 
+## when 
 
 - casual
 - left over food
 - breakfast(7-12) or dinner(20)(but not lunch, 3pm)
 
-# ingredients (serves 2, 3 - 4 for ea)
+## ingredients (serves 2, 3 - 4 for ea)
 
 - tortillas (6 - 8) (we had 9)
 - tomato (2)
@@ -21,7 +21,7 @@ categories:
 - cilantros (1/4 bundle)
 - avocado (2 mini)
 
-# recipe
+## recipe
 
 - cut the veggies
   - tomatos, meat dice
@@ -36,16 +36,16 @@ categories:
 - microwave for 20sec
 - put them in the pan, fold them heaten them for 2min, make it dry and half crisp 
 
-# other remarks
+## other remarks
 
 - just tortilla + cheese is already a legit queasadilla
 
-# updates
+## updates
 
 2018-08-10 tried to use mozzarella cheese as a substitute of oaxaca cheese, only works if you hard press with paper towel and get rid of excess water.
 
 2018-09-23 routinely making Queasadilla's, often for breakfast, or snack. Tryied to put [Gyu-don](https://en.wikipedia.org/wiki/Gy%C5%ABdon)(without the rice), and it worked too.
 
-# attributes 
+## attributes 
 made with: 
 [Andres Rico Medina](https://github.com/AndresRicoM)
