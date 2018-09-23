@@ -1,4 +1,4 @@
 name: City Science family
 markdown: kramdown
 
-permalink: /recipes/:year/:month/:day/:title
+permalink: feeding_me/recipes/:year/:month/:day/:title
