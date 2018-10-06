@@ -1,5 +1,4 @@
 name: City Science Food Recipes
 markdown: kramdown
 
-baseurl: /feeding_me
 permalink: /recipes/:year/:month/:day/:title
