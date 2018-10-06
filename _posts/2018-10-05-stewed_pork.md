@@ -36,7 +36,6 @@ date:   2018-10-05 13:04:09 -0400
 - put scallion
 - low fire - stew until radish gets soft
 
-
 ## attributes
 
 made and taught by: 
