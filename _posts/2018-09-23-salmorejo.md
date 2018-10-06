@@ -2,7 +2,6 @@
 layout: post
 title:  Salmorejo
 date:   2018-09-23 13:04:09 -0400
-categories: spanish
 ---
 
 ## when 

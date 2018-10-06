@@ -2,7 +2,6 @@
 layout: post
 title:  Queasadilla
 date:   2018-07-30 23:40:09 -0400
-categories: 
 ---
 
 ## when 
